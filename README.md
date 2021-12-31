@@ -1,2 +1,2 @@
 # Jupyter-Notebook-Basics
- Introduction to Jupyter Notebooks (2 data sets)
+ Introduction to Jupyter Notebooks 
